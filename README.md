@@ -1,5 +1,6 @@
 # Project-4-335
 
+Ian Gabriel Vista | vistaiangabriel@csu.fullerton.edu
 
 This project implements solutions for two problems:
 
@@ -31,7 +32,7 @@ Number of nodes n.
 
 Starting node k.
 
-**Sample Output**
+**Sample Output:**
 
 Laptop Rentals: 3
 
